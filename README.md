@@ -9,7 +9,7 @@ npm install ask-sdk-firestore-persistence-adapter
 
 ## Usage and Getting Started
 
-```
+```javascript
 const { FirestorePersistenceAdapter } = require('ask-sdk-firestore-persistence-adapter');
 const admin = require('firebase-admin');
 admin.initializeApp();
